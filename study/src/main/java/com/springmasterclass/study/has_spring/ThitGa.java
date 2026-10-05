@@ -4,7 +4,6 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
-@Primary
 public class ThitGa implements Thit {
     public String LayThitGa() { return "50g Thit ga"; }
 

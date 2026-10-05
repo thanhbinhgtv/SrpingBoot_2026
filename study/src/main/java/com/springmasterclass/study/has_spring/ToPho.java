@@ -18,6 +18,6 @@ public class ToPho {
 //    }
 
     public void phucVu() {
-        System.out.println("Phuc vu to pho gom " + banhPho.layBanhPho() + " va " + thitBo.layThitBo());
+        System.out.println("Phuc vu to pho gom " + banhPho.layBanhPho() + " va " + thit.layThit());
     }
 }
